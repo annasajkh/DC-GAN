@@ -1,2 +1,2 @@
 # DC-GAN
-i will train it for big dataset someday
+i will train it with big dataset someday
